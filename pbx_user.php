@@ -1,4 +1,6 @@
 <?php
+// changed by dg3fbl 22.11.2025
+// original from ct7afy
 // Devolve em JSON: endpoint, display name e se está online (tem IP)
 
 // Cabeçalho JSON
