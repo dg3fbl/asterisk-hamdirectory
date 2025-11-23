@@ -1,5 +1,5 @@
 <?php
-// Devolve em JSON: endpoint, display name e se está online (tem IP)
+// Devolve em JSON: endpoint, display name e se está online (tem IP) 
 
 // Cabeçalho JSON
 header('Content-Type: application/json; charset=utf-8');
